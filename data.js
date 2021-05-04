@@ -470,7 +470,14 @@ var APP_DATA = {
         "pitch": 0.03206507957868254,
         "fov": 1.4261791587875234
       },
-      "linkHotspots": [],
+      "linkHotspots": [
+        {
+          "yaw": -2.5827851793288943,
+          "pitch": 0.4810314862804468,
+          "rotation": 5.497787143782138,
+          "target": "12-sala-del-agua-9"
+        }
+      ],
       "infoHotspots": []
     },
     {
